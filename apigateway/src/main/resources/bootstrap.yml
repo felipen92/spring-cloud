@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: my-apigateway
+  cloud:
+    config:
+      uri: http://localhost:9080
